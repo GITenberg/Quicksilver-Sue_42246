@@ -1,0 +1,41 @@
+_repo: Quicksilver-Sue_42246
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stevens, William Dodge
+    alias: Stevens, W. D. (William Dodge)
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '6720'
+    url: http://www.gutenberg.org/2009/agents/6720
+covers:
+- cover_type: archival
+  image_path: 42246-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2013-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Best friends -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Jealousy in children -- Juvenile fiction'
+- !lcsh 'Mothers and daughters -- Juvenile fiction'
+- !lcc 'PZ'
+title: Quicksilver Sue
+url: http://www.gutenberg.org/ebooks/42246
