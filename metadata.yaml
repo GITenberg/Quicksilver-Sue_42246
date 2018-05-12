@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1753
     wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42246#Quicksilver-Sue
 gutenberg_issued: '2013-03-02'
 gutenberg_type: Text
 identifiers:
